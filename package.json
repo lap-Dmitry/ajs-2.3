@@ -1,0 +1,23 @@
+{
+  "name": "ajs-2.3",
+  "version": "1.0.0",
+  "description": "Webpack none",
+  "main": "index.js",
+  "scripts": {
+    "start":"live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lap-Dmitry/ajs-2.3.git"
+  },
+  "author": "Dmitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lap-Dmitry/ajs-2.3/issues"
+  },
+  "homepage": "https://github.com/lap-Dmitry/ajs-2.3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
